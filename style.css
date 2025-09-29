@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body,html{
+    width: 100%;
+    height: 100%;
+}
+
+.main{
+    width: 100%;
+    height: 100%;
+}
+
+.nav{
+    background-color:rgb(26, 36, 52) ;
+    color: white;
+    height: 28%;
+    text-align: center;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+}
+.container{
+ width: 100%;
+ height: 100%;
+ background-color: rgb(246, 248, 250);
+
+ gap: 1.6rem;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+.about{
+    height: 40%;
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    
+    
+}
+.ab h2{
+    margin-bottom: -1rem;
+    text-transform: uppercase;
+}
+.other{
+    margin-top: 1.5rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+   
+}
+
+.b-all{
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 1rem;
+    background-color: rgb(210, 232, 246);
+}
+.div-edu{
+
+}
+.gap-a{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 1rem;
+    gap: 0.5rem;
+}
+.first{
+    width: 65%;
+    height: 40%;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+
+    
+}
+.first h4{
+    margin-top: 0.3rem;
+}
+.second{
+      width: 65%;
+    height:40%;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+   
+}
+.second h4{
+    margin-top: 0.2rem;
+}
+.div-edu{
+    margin-top: 1rem;
+}
+
+.a-all{
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 1rem;
+    background-color: rgb(254, 240, 191);
+}
+
+.one{
+      width: 60%;
+    height: 60%;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+.one h4{
+    margin-top: 0.5rem;
+    font-weight: 500;
+}
+.two{
+      width: 60%;
+    height: 60%;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+.two h4{
+    margin-top: 0.5rem;
+    font-weight: 500;
+}
+.three{
+      width: 60%;
+    height: 60%;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+.three h4{
+margin-top: 0.5rem;
+font-weight: 500;
+}
+.four{
+      width: 60%;
+    height: 60%;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+.four h4{
+    margin-top: 0.5rem;
+    font-weight: 500;
+}
+.five{
+       width: 65%;
+    height: 23%;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+.five h4{
+    margin-top: 0.5rem;
+    font-weight: 500;
+}
+.six{
+      width: 65%;
+    height: 23%;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+.six h4{
+    margin-top: 0.5rem;
+   font-weight: 500;
+}
+.seven{
+      width: 65%;
+    height: 23%;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+.seven h4{
+margin-top: 0.5rem;
+font-weight: 500;
+}
+.eight{
+      width: 60%;
+    height: 24%;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+.eight h4{
+    margin-top: 0.5rem;
+    font-weight: 500;
+}
+.nine{
+      width: 60%;
+    height: 24%;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+.nine h4{
+    margin-top: 0.5rem;
+    font-weight: 500;
+}
+.ten{
+      width: 60%;
+    height: 24%;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+  
+}
+.ten h4{
+  margin-top: 0.5rem;
+  font-weight: 500;
+}
+.gap-b{
+     height: 65%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 1rem;
+    gap: 0.7rem;
+}
+.div-mid{
+     width: 100%;
+ height: 100%;
+ background-color: rgb(246, 248, 250);
+
+ gap: 1.6rem;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+.c-all{
+     height: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 1rem;
+    margin-top: 2rem;
+    background-color: rgb(235, 230, 254);
+}
+
+.footer{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(26, 36, 52);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.copy{
+    color: white;
+    font-size: 0.7rem;
+}
+.ab p{
+    font-size: 0.8rem;
+    
+
+}
+.col{
+    background-color:rgb(192, 225, 203) ;
+}
